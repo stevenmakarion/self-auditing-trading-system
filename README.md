@@ -121,4 +121,5 @@ MIT.
 
 ---
 
-*Built by Steven Makarion and Aria Makarion.*
+Part of the work at [stevenmakarion.com/work/](https://stevenmakarion.com/work/).
+Built by Steven Makarion and Aria Makarion, as a partnership.
